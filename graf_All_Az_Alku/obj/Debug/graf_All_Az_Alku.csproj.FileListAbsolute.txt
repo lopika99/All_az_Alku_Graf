@@ -1,0 +1,9 @@
+C:\Users\lopez\source\repos\graf_All_Az_Alku\graf_All_Az_Alku\obj\Debug\graf_All_Az_Alku.csprojAssemblyReference.cache
+C:\Users\lopez\source\repos\graf_All_Az_Alku\graf_All_Az_Alku\obj\Debug\graf_All_Az_Alku.Properties.Resources.resources
+C:\Users\lopez\source\repos\graf_All_Az_Alku\graf_All_Az_Alku\obj\Debug\graf_All_Az_Alku.csproj.GenerateResource.cache
+C:\Users\lopez\source\repos\graf_All_Az_Alku\graf_All_Az_Alku\bin\Debug\graf_All_Az_Alku.exe.config
+C:\Users\lopez\source\repos\graf_All_Az_Alku\graf_All_Az_Alku\bin\Debug\graf_All_Az_Alku.exe
+C:\Users\lopez\source\repos\graf_All_Az_Alku\graf_All_Az_Alku\bin\Debug\graf_All_Az_Alku.pdb
+C:\Users\lopez\source\repos\graf_All_Az_Alku\graf_All_Az_Alku\obj\Debug\graf_All_Az_Alku.exe
+C:\Users\lopez\source\repos\graf_All_Az_Alku\graf_All_Az_Alku\obj\Debug\graf_All_Az_Alku.pdb
+C:\Users\lopez\source\repos\graf_All_Az_Alku\graf_All_Az_Alku\obj\Debug\graf_All_Az_Alku.Form1.resources
